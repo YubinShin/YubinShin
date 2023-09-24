@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+notion : [https://yubinshin.github.io/](https://www.notion.so/9a35cc7523dd448493e7fa844744c429)
+blog : [https://yubinshin.github.io/]([https://www.notion.so/9a35cc7523dd448493e7fa844744c429](https://yubinshin.github.io/))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YubinShin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display:flex">
