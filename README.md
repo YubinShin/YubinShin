@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-notion : [https://yubinshin.github.io/](https://www.notion.so/9a35cc7523dd448493e7fa844744c429) <br>
+(https://www.notion.so/9a35cc7523dd448493e7fa844744c429) <br>
 blog : [https://yubinshin.github.io/](https://yubinshin.github.io/)
 
 
