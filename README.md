@@ -2,9 +2,9 @@
 
 blog : [https://yubinshin.github.io/](https://yubinshin.github.io/)
 
-resume : [https://yubinshin.github.io/](https://yubinshin.github.io/)
+resume : [https://yubinshin.github.io/resume/](https://yubinshin.github.io/resume/)
 
-portfolio : [https://yubinshin.github.io/](https://yubinshin.github.io/)
+portfolio : [https://yubinshin.github.io/portfolio/](https://yubinshin.github.io/portfolio/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YubinShin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
